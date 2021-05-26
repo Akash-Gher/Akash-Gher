@@ -6,11 +6,11 @@
 
 -->
 
-- 🔭 I’m currently working on ...AI based freelance platform WEB+Android Platform project
+- 🔭 I’m currently working on ...AI based freelance platform WEB+Android project, Green Computing planet project
 - 🌱 I’m currently learning ...CSE,Advanced DSA,Android dev,Agile Software Development Methodology
-- 👯 I’m looking to collaborate on ...web dev project(MERN,LAMP,XAMPP,), Android project,hybrid project(REACT-native)
-- 🤔 I’m looking for help with ...AI bassed robot
-- 💬 Ask me about ...tech/lifestyle/health/space/
+- 👯 I’m looking to collaborate on ...Web dev project(MERN,XAMPP), Android projects,hybrid projects(REACT-native)
+- 🤔 I’m looking for help with ...AI based robot,reserch based projects
+- 💬 Ask me about ... tech/lifestyle/health/space/graphics
 - 📫 How to reach me: ...mail id:akashgher@gmail.com
                           site:   http://akashgher.ga/
                      tech-blog:   http://sky.epizy.com/
