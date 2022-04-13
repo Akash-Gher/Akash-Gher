@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with ...AI based robot,reserch based projects
 - 💬 Ask me about ... tech/lifestyle/health/space/graphics
 - 📫 How to reach me: ...mail id:akashgher@gmail.com
-                          site:   http://akashgher.ga/
+                          site:   http://akashgher.ml/
                      tech-blog:   http://sky.epizy.com/
 - 😄 Pronouns: ...hello world
 - ⚡ Fun fact: ...geek
